@@ -2,7 +2,7 @@
 
 This is a College Id generator site for My College
 
-website Link : https://idgenerater.kanojiya9768.repl.co/
+website Link : https://idgenerater.netlify.app/
 
 
 Source Code Link : https://replit.com/@kanojiya9768/IDgenerator
